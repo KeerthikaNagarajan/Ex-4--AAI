@@ -1,4 +1,4 @@
-## Date: 12.09.2024
+## Date: 19.08.2024
 
 <h1 align="center">  
    Experiment 4: Implementation of Hidden Markov Model 
